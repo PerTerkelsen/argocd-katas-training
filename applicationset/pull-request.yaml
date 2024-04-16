@@ -7,7 +7,7 @@ spec:
   generators:
   - pullRequest:
       github:
-        # The GitHub organization or user.
+        # The GitHub organization or user...
         owner: PerTerkelsen #e.g. eficode-academy
         # The Github repository
         repo: argocd-katas-training #e.g. argocd-katas
